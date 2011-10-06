@@ -19,15 +19,8 @@ For testing, you probably want to know about these directives:
 	//=angular-scenario
 
 
-### Installation
 
-New Rails 3.1 apps include angularjs-rails in the Gemfile by default. So just make a new app:
-
-    rails new myapp
-
-You're done!
-
-## Rails 3.0
+## Rails  >= 3.0 
 
 This is an initial release. I have no idea what it will do.
 
