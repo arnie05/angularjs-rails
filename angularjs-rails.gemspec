@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.homepage    = "http://rubygems.org/gems/angularjs-rails"
   s.summary     = "use angular.js in rails 3.1 in a very clean way"
   s.description = "Want a good JavaScript MVC? Use Rails 3.1? They say it is `What HTML would have been
-  had it been designed for web apps`. This gem provides Angular.js and the ie compatibilityy, mocks, and scenarios driver for your Rails 3 application"
+  had it been designed for web apps`. This gem provides Angular.js and the ie compatibility, mocks, and scenarios driver for your Rails 3 application"
 
   s.rubyforge_project = "angularjs-rails"
 
