@@ -1,7 +1,6 @@
 # angularjs-rails
 
-DONT USE THIS YET. I HAVE NOT WRITTEN THE TESTS FOR IT.
-Angular.js! For Rails. What took so long?
+Angular.js! For Rails. You Should Use It(TM)
 
 
 ## Rails 3.1
