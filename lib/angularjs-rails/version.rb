@@ -1,6 +1,6 @@
 module Angularjs
   module Rails
-    VERSION = "0.0.2"
+    VERSION = "0.0.3"
     ANGULAR_VERSION   ="0.9.19"
     ANGULAR_SCENARIO  ="0.9.19"
     ANGULAR_MOCKS     ="0.9.19"
